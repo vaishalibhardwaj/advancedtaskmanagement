@@ -1,3 +1,3 @@
 # advancedtaskmanagement
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/vaishalibhardwaj/advancedtaskmanagement)
+https://warm-tapioca-bcaad1.netlify.app/
